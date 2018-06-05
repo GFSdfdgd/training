@@ -18,7 +18,8 @@ public class arrayFunctions {
         //    numArray[i] = i;
             
         //}
-        
+        System.out.println("Adding line of code");
+        System.out.println("Here are your values:");
         System.out.println("Minimal value for an array is: " + getMinValue(numArray));
         System.out.println("Average value for an array is: " + getAvgValue(numArray));
         System.out.println("Maximum value for an array is: " + getMaxValue(numArray));
